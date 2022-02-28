@@ -1,0 +1,34 @@
+30
+S02	AnhVanGiaoTiep		DinhXuanNgoc		NXBGiaoDuc	2020
+S01	TomAndJerry		MiyukaArisa		NXBTuoiTre	2019
+S05	KhoangTroiToi		NguyenNhatAnh		NXBKimDong	2018
+S03	TinHocVanPhong		NguyenTienHuy		NXBGiaoDuc	2019
+S07	NgonNguXML		NguyenTienHuy		NXBGiaoDuc	2020
+S06	BinhMinhSom		NguyenNhatAnh		NXBTongHop	2018
+S04	ThienThanDepNhat	LeThanhYen		NXBTuoiTre	2020
+S08	LapTrinhC#		HoVanDuy		NXBGiaoDuc	2019
+S09	CongNgheWeb		TranAnh			NXBTongHop	2019
+S10	NangLen			TranDuyHung		NXBKimDong	2018
+S11	Phuongphaptrendline	PatrickMikula		NXBGiaoDuc	2013
+S14	Hanhphucthatgiandon	NguyenManhHung		NXBKimDong	2020
+S13	Tradinginthezone	MarkDouglas		NXBGiaoDuc	2015
+S12	Doichimthanh		KimLan			NXBHoiNhavan	2004		
+S16	Conmomoi		KimLan			NXBVanhoc	1996
+S17	Chosan			KimLan			NXBVanhoc	1999
+S18	Dacnhantam		DaleCarnegie		NXBTuoiTre	2001
+S15	TuDuyNhanhVaCham	DanielKahneman		NXBThegioi	2004
+S19	TruyencoGrim		JacobGrimm		NXBKimDong	1989
+S20	DocViBatKyAi		DavidJ.Liebermen	DHKinhteQuocdan	2001
+S26	CoMayBanHangToiUu	ChetHolmes		NXBLaoDong	2016
+S27	VietGiCungDung		AnthonyWeston		NXBLaodong	2002
+S28	BanNiemTin		DanKennedy		NXBThegioi	2019
+S25	TungSanpham		JeffWalker		NXBGiaoDuc	2020
+S21	ThuBanHangDinhCao	DanKennedy		NXBGiaoDuc	2002
+S23	DiemBungPhat		MalcolmGladwell		NXBTheGioi	2018
+S22	TriTueTaiChinh		KarenBerman		DHKinhteQuocdan	2017
+S24	SEOMaster		Chuacotacgia		NXBLaodong	2010
+S30	TiepThiSoTuADenZ	DamianRyan		NXBLaodong	2012
+S39	ChinhPhucSuHonLoan	Chuacotacgia		DHKinhteQuocdan	2015
+
+
+
